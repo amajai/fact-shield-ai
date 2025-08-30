@@ -16,8 +16,6 @@ FactShield AI is a multi-agent deep research fact-checking system built with Lan
 
 ![Project Workflow](resources/workflow.png)
 
-Note: Ensure the image file exists at `resources/workflow.png` so it renders correctly.
-
 ## Architecture Overview
 
 FactShield uses LangGraph state machines across three layers:
