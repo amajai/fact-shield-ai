@@ -2,10 +2,6 @@
 
 FactShield AI is a multi-agent deep research fact-checking system built with LangChain and LangGraph. It clarifies user claims, orchestrates parallel research with tools, and produces a polished, citation-rich Markdown report. Use it via a CLI workflow or a Streamlit web app.
 
-## Workflow
-
-![Project Workflow](resources/workflow.png)
-
 ## Key Features
 
 - Claim clarification and scoping to ensure verifiability
